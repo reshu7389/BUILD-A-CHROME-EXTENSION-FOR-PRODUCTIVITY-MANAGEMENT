@@ -30,4 +30,5 @@ By combining Chrome extension capabilities with a powerful MERN backend, the pro
 Future improvements may include Google OAuth, CSV export of reports, customizable focus modes, and mobile browser support.
 
 #OUTPUT:
-
+<img width="1916" height="439" alt="Image" src="https://github.com/user-attachments/assets/4a8d1d40-e972-4686-a9ae-56e7d02eef5b" />
+<img width="1511" height="1063" alt="Image" src="https://github.com/user-attachments/assets/32f162b3-07e5-415f-95a8-92d852f13754" />
